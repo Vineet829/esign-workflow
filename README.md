@@ -1,5 +1,3 @@
-![alt text](https://github.com/Vineet829/esign-workflow/blob/main/images/esign1.png)
-
 ![alt text](https://github.com/Vineet829/esign-workflow/blob/main/images/esign4.png)
 
 ![alt text](https://github.com/Vineet829/esign-workflow/blob/main/images/esign6.png)
